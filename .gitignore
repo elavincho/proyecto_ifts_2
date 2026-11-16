@@ -1,0 +1,14 @@
+*.pdf
+*.sh
+
+# React / Node
+node_modules
+dist
+.env
+.vercel
+server/storage/
+AGENTS.md
+.agents/
+
+# Se versionan los documentos que publica el sitio (guía de preingreso, resolución del plan, correlatividades)
+!client/public/docs/*.pdf
