@@ -359,5 +359,5 @@ ejecución, con la captura de la consola, en [docs/reporte-de-pruebas.md](./docs
 ---
 
 <div align="center">
-  <p>IFTS N.º 29 · Tecnicatura Superior en Desarrollo de Software · Prácticas Profesionalizantes IV · 2026</p>
+  <p><img src="https://i.ibb.co/SDCBhGd9/ifts29.png" width="30" height="30" alt="ifts-29"/> IFTS N.º 29 · Tecnicatura Superior en Desarrollo de Software · Prácticas Profesionalizantes IV · 2026</p>
 </div>
