@@ -1,4 +1,5 @@
 <img src="https://i.ibb.co/SDCBhGd9/ifts29.png" width="80" height="80" alt="ifts-29"/>
+
 <div align="center">
   <h1>Portal Web Institucional IFTS N.º 2</h1>
   <h2>Proyecto Integrador · Prácticas Profesionalizantes IV · 404-Solutions</h2>
