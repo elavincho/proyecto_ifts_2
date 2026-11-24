@@ -351,7 +351,7 @@ ejecución, con la captura de la consola, en [docs/reporte-de-pruebas.md](./docs
 | :--------- | :-- | :----- |
 | **Miguel Ángel Flores Meehan** | Product Owner · Analista de Negocio | [@mikefink22](https://github.com/mikefink22) |
 | **Valeria Thomas** | Scrum Master · Gestión del Proyecto | [@Irinath](https://github.com/Irinath) |
-| **Raquel Rodriguez Herlein** | Frontend · Diseño UX/UI | [@raquerh](https://github.com/raquerh) |
+| **Raquel Rodríguez Herlein** | Frontend · Diseño UX/UI | [@raquerh](https://github.com/raquerh) |
 | **Mario David González Benítez** | Backend · Base de Datos | [@elavincho](https://github.com/elavincho) |
 | **Mariana Aiello** | QA · Documentación Técnica | [@Aiello-M](https://github.com/Aiello-M) |
 
