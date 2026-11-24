@@ -1,7 +1,9 @@
 <img src="https://i.ibb.co/SDCBhGd9/ifts29.png" width="80" height="80" alt="ifts-29"/>
 
 <div align="center">
-  <h1>Portal Web Institucional IFTS N.º 2</h1>
+  <img src="https://i.ibb.co/HLpCLNB6/Icono-3-D-brillante-IFTS-2.png" width="50" height="50" alt="icono_ifts_2">
+  <h1>Portal Web Institucional  IFTS N.º 2</h1>
+  
   <h2>Proyecto Integrador · Prácticas Profesionalizantes IV · 404-Solutions</h2>
   <br>
   <img src="https://img.shields.io/badge/STATUS-ENTREGA%20FINAL-green?style=for-the-badge" alt="Status">
